@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AryansheeK
-- 👀🖥️ I’m interested in Coding, Programming, learning all sorts of new things.
-- 🌱 I’m currently learning Scratch
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - through mail
+- Hi, I’m @AryansheeK
+- 👀🖥️ Interested in Coding, Programming, learning all sorts of new things.
+- 🌱 I’m currently learning
 
 <!---
 AryansheeK/AryansheeK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
